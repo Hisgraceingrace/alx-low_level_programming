@@ -26,6 +26,6 @@ int main(void)
 		}
 		++i;
 	}
-	printf("ln");
+	printf("\n");
 	return (0);
 }
